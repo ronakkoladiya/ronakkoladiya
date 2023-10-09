@@ -68,11 +68,11 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/ronxkk">
+  <a href="https://www.instagram.com/ronxkk" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-<a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b">
+<a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
