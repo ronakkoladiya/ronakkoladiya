@@ -45,24 +45,24 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/thinkswell">
-        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya0010&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya0010" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya0010" />
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/ronakkoladiya0010">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya0010&hide_border=true&theme=tokyonight" />
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/ronakkoladiya0010">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya0010&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
      <td>
        <a href="https://github.com/ronakkoladiya0010/CRUD-JS">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya0010&repo=CRUD-JS&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=CRUD-JS&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
