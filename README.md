@@ -45,12 +45,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/thinkswell">
-        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya0010" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya0010" style="width: 100%;"/>
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/ronakkoladiya0010">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=tokyonight" />
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=tokyonight" style="width: 100%;"/>
       </a>
     </td>
   </tr>
