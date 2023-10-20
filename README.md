@@ -56,8 +56,8 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/ronakkoladiya0010" style="width: 100%;">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+      <a href="https://www.github.com/ronakkoladiya0010">
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
      <td>
