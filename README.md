@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
-  <tr>
+  <tr style="background-color: transparent;">
     <td>
       <a href="https://www.github.com/ronakkoladiya0010">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
