@@ -54,13 +54,13 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
-  <tr style="background-color: transparent;">
-    <td>
+  <tr>
+    <td style="background-color: transparent;">
       <a href="https://www.github.com/ronakkoladiya0010">
        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
-     <td>
+     <td style="background-color: transparent;">
        <a href="https://github.com/ronakkoladiya0010/CRUD-JS">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=CRUD-JS&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
