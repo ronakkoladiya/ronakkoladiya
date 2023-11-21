@@ -45,24 +45,24 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/thinkswell">
-        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=dark&count_private=true&hide_border=true&background=70%2C085C13%2C000000" alt="ronakkoladiya" style="width: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="ronakkoladiya" style="width: 100%;"/>
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/ronakkoladiya">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=dark&background=70%2C085C13%2C00000" style="width: 100%;"/>
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=dark" style="width: 100%;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/ronakkoladiya">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=dark&hide_border=true&background=70%2C085C13%2C00000" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=dark&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
      <td>
        <a href="https://github.com/ronakkoladiya/portfolio">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=dark&show_icons=true&hide_border=true&background=70%2C085C13%2C00000" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=dark&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
   </tr>
