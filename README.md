@@ -62,7 +62,7 @@ Here are some ideas to get you started:
     </td>
      <td>
        <a href="https://github.com/ronakkoladiya/portfolio">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=CRUD-JS&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=tokyonight&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
   </tr>
