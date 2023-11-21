@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     </td>
     <td> 
       <a href="https://www.github.com/ronakkoladiya">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=tokyonight" style="width: 100%;"/>
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=whatsapp-dark2" style="width: 100%;"/>
       </a>
     </td>
   </tr>
