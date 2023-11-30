@@ -72,8 +72,12 @@ Here are some ideas to get you started:
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-<a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://yagnikdevani.vercel.app">
+    <img src="https://img.shields.io/badge/My%20Website-%230077B5?&style=for-the-badge&logo=Website&logoColor=white">
+  </a>
 
 </p>
