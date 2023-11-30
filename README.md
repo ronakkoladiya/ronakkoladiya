@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://yagnikdevani.vercel.app">
+  <a href="https://ronakkoladiya.vercel.app">
     <img src="https://img.shields.io/badge/My%20Website-%230077B5?&style=for-the-badge&logo=Website&logoColor=white">
   </a>
 
