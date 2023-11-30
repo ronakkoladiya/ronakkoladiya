@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://ronakkoladiya.vercel.app">
-    <img src="https://img.shields.io/badge/My%20Website-%230077B5?&style=for-the-badge&logo=googleearth&logoColor=white">
+    <img src="https://img.shields.io/badge/WEBSITE-%230077B5?&style=for-the-badge&logo=googleearth&logoColor=white">
   </a>
 
 </p>
