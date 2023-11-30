@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/ronxkk" target="_blank" style="borderRadius: 10px;">
+  <a href="https://www.instagram.com/ronxkk" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
