@@ -68,8 +68,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/ronxkk" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" style="borderRadius: 10px;"/>
+  <a href="https://www.instagram.com/ronxkk" target="_blank" style="borderRadius: 10px;">
+    <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
   <a href="https://in.linkedin.com/in/ronak-koladiya-a4839524b" target="_blank">
