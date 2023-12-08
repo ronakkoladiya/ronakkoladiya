@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
+      <a href="https://www.github.com/ronakkoladiya">
         <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="ronakkoladiya" style="width: 100%;"/>
       </a>
     </td>
