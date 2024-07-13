@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJs. 
 - 💬 Ask me about anything 👨‍💻
 - 📫 Mail me at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
-- ⚡ Fun fact about me: Focused Web Developer (Man of Focus, Determination, and Sheer Will) 😉
+- ⚡ I have dreams where my code performs wild acrobatics, testing its limits in the digital realm! 😉
 
 
 <h3 align="left">Languages and Tools:</h3>
