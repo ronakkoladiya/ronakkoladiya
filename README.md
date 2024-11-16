@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table cellspacing="0" cellpadding="0">
   <tr style="border-top: none !important;">
     <td style="padding: 0 !important; border: none !important;">
-      <ul>
+      <ul style="padding-left: 1.1em !important;">
         <li>🏝️ Adventuring through boundless imagination.</li>
         <li>💬 Feel free to ask me anything! 👨‍💻</li>
         <li>📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)</li>
