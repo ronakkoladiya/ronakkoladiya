@@ -22,7 +22,7 @@ Here are some ideas to get you started:
       <ul>
         <li>🏝️ Adventuring through boundless imagination.</li>
         <li>💬 Feel free to ask me anything! 👨‍💻</li>
-        <li>📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)</li>
+        <li>📫 Reach out at <a href="mailto:ronakkoladiya0010@gmail.com">ronakkoladiya0010@gmail.com</a></li>
         <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
       </ul>
     </td>
