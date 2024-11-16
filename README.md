@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img alt="Next.Js" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Node.Js" src="https://img.shields.io/badge/node.js-2c682c.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.Js" src="https://img.shields.io/badge/express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-001e2b.svg?&style=for-the-badge&logo=mongodb&logoColor=00ed64"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
