@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="120px" height="120px" /> -->
 
-- 🏝️ Adventuring through boundless imagination.
-- 💬 Feel free to ask me anything! 👨‍💻
-- 📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
-- ⚡ My code dreams big, performing wild digital acrobatics! 😉
+<ul>
+  <li>🏝️ Adventuring through boundless imagination.</li>
+  <li>💬 Feel free to ask me anything! 👨‍💻</li>
+  <li>📫 Reach out at <a href="mailto:ronakkoladiya0010@gmail.com">ronakkoladiya0010@gmail.com</a></li>
+  <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
