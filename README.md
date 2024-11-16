@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://ronakkoladiya.vercel.app">
-    <img src="https://img.shields.io/badge/WEBSITE-ffdb70?&style=for-the-badge&logo=googleearth&logoColor=black">
+    <img src="https://img.shields.io/badge/WEBSITE-black?&style=for-the-badge&logo=googleearth&logoColor=white">
   </a>
 
 </p>
