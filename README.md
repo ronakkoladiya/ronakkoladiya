@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🏝️ Adventuring through boundless imagination.
 - 💬 Feel free to ask me anything! 👨‍💻
-- 📫 Mail me at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
+- 📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
 - ⚡ My code dreams big, performing wild digital acrobatics! 😉
 
 
