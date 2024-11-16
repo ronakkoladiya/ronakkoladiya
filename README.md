@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" />, I'm Ronak Koladiya</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🏝️ Adventuring through boundless imagination.
-- 💬 Feel free to ask me anything! 👨‍💻
-- 📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
-- ⚡ My code dreams big, performing wild digital acrobatics! 😉
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div>
+    - 🏝️ Adventuring through boundless imagination.
+    - 💬 Feel free to ask me anything! 👨‍💻
+    - 📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
+    - ⚡ My code dreams big, performing wild digital acrobatics! 😉
+  </div>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
