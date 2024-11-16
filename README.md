@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table cellspacing="0" cellpadding="0">
-  <tr style="border: none !important;">
+  <tr style="border-top: none !important;">
     <td style="padding: 0 !important; border: none !important;">
       <ul>
         <li>🏝️ Adventuring through boundless imagination.</li>
