@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br/> <br/>
+<br/>
 
 <table>
   <tr>
