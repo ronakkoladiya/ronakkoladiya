@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr border="0">
     <td border="0">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="120px" height="120px" />
+    </td>
+    <td border="0">
       <ul>
         <li>🏝️ Adventuring through boundless imagination.</li>
         <li>💬 Feel free to ask me anything! 👨‍💻</li>
         <li>📫 Reach out at <a href="mailto:ronakkoladiya0010@gmail.com">ronakkoladiya0010@gmail.com</a></li>
         <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
       </ul>
-    </td>
-    <td border="0">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="120px" height="120px" />
     </td>
   </tr>
 </table>
