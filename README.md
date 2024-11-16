@@ -70,6 +70,9 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="30" height="30" />
+
 <p align="center"> 
   <a href="https://www.instagram.com/ronxkk" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -85,4 +88,3 @@ Here are some ideas to get you started:
 
 </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="30" height="30" />
