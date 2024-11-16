@@ -13,15 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />, I'm Ronak Koladiya</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" />, I'm Ronak Koladiya</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 - 🏝️ Adventuring through boundless imagination.
 - 💬 Feel free to ask me anything! 👨‍💻
 - 📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
 - ⚡ My code dreams big, performing wild digital acrobatics! 😉
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -40,8 +38,6 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-001e2b.svg?&style=for-the-badge&logo=mongodb&logoColor=00ed64"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
-
 
 <br/> <br/>
 
