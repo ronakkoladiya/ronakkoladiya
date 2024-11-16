@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3>
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
