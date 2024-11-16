@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </ul>
 
 <h3 align="left">Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3>
+
 <p align="center"> 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
 <p align="center"> 
   <a href="https://www.instagram.com/ronxkk" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/ronxkk-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -83,8 +85,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/WEBSITE-black?&style=for-the-badge&logo=googleearth&logoColor=white">
   </a>
 
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="30" height="30" />
 </p>
