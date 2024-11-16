@@ -85,3 +85,5 @@ Here are some ideas to get you started:
   </a>
 
 </p>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="25" height="25" />
