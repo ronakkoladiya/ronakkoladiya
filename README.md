@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning NodeJs. 
-- 💬 Ask me about anything 👨‍💻
+- 🏝️ Adventuring through boundless imagination.
+- 💬 Feel free to ask me anything! 👨‍💻
 - 📫 Mail me at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)
-- ⚡ I have dreams where my code performs wild acrobatics, testing its limits in the digital realm! 😉
+- ⚡ My code dreams big, performing wild digital acrobatics! 😉
 
 
 <h3 align="left">Languages and Tools:</h3>
