@@ -48,24 +48,24 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.github.com/ronakkoladiya">
-        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=prussian&count_private=true&hide_border=true" alt="ronakkoladiya" style="width: 100%;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ronakkoladiya&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true" alt="ronakkoladiya" style="width: 100%;"/>
       </a>
     </td>
     <td> 
       <a href="https://www.github.com/ronakkoladiya">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=prussian" style="width: 100%;"/>
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=ronakkoladiya&hide_border=true&theme=github_dark_dimmed" style="width: 100%;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.github.com/ronakkoladiya">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=prussian&hide_border=true" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakkoladiya&langs_count=8&layout=compact&theme=github_dark_dimmed&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
      <td>
        <a href="https://ronakkoladiya.vercel.app">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=prussian&show_icons=true&hide_border=true" style="width: 100%;"/>
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=ronakkoladiya&repo=portfolio&theme=github_dark_dimmed&show_icons=true&hide_border=true" style="width: 100%;"/>
       </a>
     </td>
   </tr>
