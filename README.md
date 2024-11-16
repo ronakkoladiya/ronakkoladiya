@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
       </ul>
     </td>
-    <td style="padding: 0 !important; border: none !important; width: 50% !important; text-align: right !important;">
+    <td style="padding: 0 !important; border: none !important; width: 50% !important;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="100" height="100" />
     </td>
   </tr>
