@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" />, I'm Ronak Koladiya</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table style="width: 100%; border: none; cellpadding: 0; cellspacing: 0; table-layout: fixed;">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="width: 50%; padding: 0; text-align: left;">
+    <td style="width: 50%; vertical-align: top;">
       <ul>
         <li>🏝️ Adventuring through boundless imagination.</li>
         <li>💬 Feel free to ask me anything! 👨‍💻</li>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
       </ul>
     </td>
-    <td style="width: 50%; padding: 0; text-align: center;">
+    <td style="width: 50%; text-align: center; vertical-align: middle;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="100" height="100" />
     </td>
   </tr>
