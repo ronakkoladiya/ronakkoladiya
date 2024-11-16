@@ -16,15 +16,21 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="30" height="30" />, I'm Ronak Koladiya</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <ul>
-    <li>🏝️ Adventuring through boundless imagination.</li>
-    <li>💬 Feel free to ask me anything! 👨‍💻</li>
-    <li>📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)</li>
-    <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
-  </ul>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="100" height="100" />
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🏝️ Adventuring through boundless imagination.</li>
+        <li>💬 Feel free to ask me anything! 👨‍💻</li>
+        <li>📫 Reach out at [ronakkoladiya0010@gmail.com](mailto:ronakkoladiya0010@gmail.com)</li>
+        <li>⚡ My code dreams big, performing wild digital acrobatics! 😉</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="100" height="100" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
