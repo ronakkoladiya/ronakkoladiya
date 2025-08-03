@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://ronakkoladiya.com">
+  <a href="https://ronakkoladiya.com" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-black?&style=for-the-badge&logo=googleearth&logoColor=white">
   </a>
 
